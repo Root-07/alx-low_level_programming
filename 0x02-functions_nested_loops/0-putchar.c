@@ -4,7 +4,7 @@
  * Description: You are not allowed to include standard libraries
  * Return: 0
  */
-int main()
+int main(void)
 {
 	char p[] = "_putchar";
 	int i = 0;
@@ -16,3 +16,4 @@ int main()
 	_putchar('\n');
 	return (0);
 }
+
