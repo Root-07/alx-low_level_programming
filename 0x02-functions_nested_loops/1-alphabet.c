@@ -1,11 +1,12 @@
 #include "main.h"
 
-/* Fun that prints the alphabet, in lowercase
+/**
+ * Fun that prints the alphabet, in lowercase
  *
  * use _putchar twice in my code
-*/
+ */
 
-void	print_alphabet(void)
+void print_alphabet(void)
 {
 	char c = 'a';
 
