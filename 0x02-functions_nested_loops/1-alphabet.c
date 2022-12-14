@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Fun that prints the alphabet, in lowercas.
+ * Fun that prints the alpha in lowercas.
  *
  * use _putchar twice in my code.
  */
