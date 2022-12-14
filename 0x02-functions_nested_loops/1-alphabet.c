@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * Fun that prints the alpha in lowercas.
- *
- * use _putchar twice in my code.
+ * print_alphabet - Print alphabet in lowercase using only `_putchar`
+ * Return: 0
  */
 void print_alphabet(void)
 {
