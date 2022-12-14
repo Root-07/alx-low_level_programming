@@ -7,14 +7,12 @@
 int main()
 {
 	char p[] = "_putchar";
-	int i;
-
-	i = 0;
-	while(p[i] != '\0')
+	int i = 0;
+	while (p[i] != '\0')
 	{
 		_putchar(p[i]);
 		i++;
 	}
 	_putchar('\n');
-	return(0);
+	return (0);
 }
